@@ -1,10 +1,5 @@
 # Town Of Host-K-External
 
-[English version here](https://github.com/KYMario/TownOfHost-K/blob/main/README-EN.md)<br>
-
-[![Discord](./Images/TownOfHostK_readme.png)](https://discord.gg/5DPqH8seFq)
-
-
 ## この Mod について
 
 この Mod は非公式のものであり、この Mod の開発に関して Among Us の開発元である"Innersloth"は一切関与していません。<br>
