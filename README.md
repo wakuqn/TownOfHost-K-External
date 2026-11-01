@@ -1,25 +1,24 @@
-# Town Of Host-K
+# Town Of Host-K-External
 
 [English version here](https://github.com/KYMario/TownOfHost-K/blob/main/README-EN.md)<br>
 
 [![Discord](./Images/TownOfHostK_readme.png)](https://discord.gg/5DPqH8seFq)
 
-<p align="center"><a href="https://github.com/KYMario/TownOfHost-K/releases/"><img src="https://badgen.net/github/release/KYMario/TownOfHost-K"></a></p>
 
 ## この Mod について
 
 この Mod は非公式のものであり、この Mod の開発に関して Among Us の開発元である"Innersloth"は一切関与していません。<br>
 この Mod の問題などに関して公式に問い合わせないでください。<br>
 
-この Mod はTOHに役職や機能など追加したModです
-TOH-Kで起きたバグは本家や他MODには報告しないでまずはkに報告してください。<br>
+この Mod はTOH,TOH-Kに役職や機能など追加したModです
+TOH-K-Exで起きたバグは本家や他MODには報告しないでまずはkに報告してください。<br>
 
-また、TOH-Kに関する質問、バグ報告は基本、[DiscordServer](https://discord.gg/5DPqH8seFq)でのみ受け付けております。<br>
+また、TOH-K-Exに関する質問、バグ報告は基本、[DiscordServer](https://discord.gg/5DPqH8seFq)でのみ受け付けております。<br>
 
 機能面などを開発者にDMで聞くのは超大迷惑なので基本おやめください。<br>
 
 [本家TOHはこちら](https://github.com/tukasa0001/TownOfHost)<br>
-
+[元MOD,TOH-Kはこちら](https://github.com/KYMario/TownOfHost-K)<br>
 ## [Wiki](https://github.com/KYMario/TownOfHost-K/wiki)もあるよ!
 
 ## リリース
@@ -62,7 +61,7 @@ AmongUsバージョン : **19.0.0**~<br>
 <br>
 勧誘部屋に遭遇した場合は勧誘先に無闇に参加せずまずは開発者にお知らせください。厳正に対処いたします。<br>
 
-## TOH-Kでの処罰、利用不可について
+## TOH-K-Exでの処罰、利用不可について
 v.5.1.61.1以降より[SuperNewRoles](https://github.com/SuperNewRoles/SuperNewRoles/)様等一部のModに搭載されていた<br>
 ブラックリストをTown Of Host-Kでも適応するようにいたしました。<br>
 
@@ -79,10 +78,11 @@ v.5.1.61.1以降より[SuperNewRoles](https://github.com/SuperNewRoles/SuperNewR
 -----------------------------------------------
 
 **【絶対に読むんだ】**<br>
-Town Of Host-Kの利用をもって"処罰に値する利用方法"内で記載されている<br>
+Town Of Host-K-Externalの利用をもって"処罰に値する利用方法"内で記載されている<br>
 行動をしないと誓い,<br>
 処罰に値する利用を行った場合はいかなる場合でも処罰を受け入れるものとします。<br>
-
+またTown Host-K-ExternalはTown of Host-Kとは関係性は一切ないので,<br>
+不明点は絶対にTown of Host-K運営に連絡しないでください<br>
 -----------------------------------------------
 
 要するに<br>
@@ -91,101 +91,3 @@ Modが使えなくなるよ!<br>
 このMod使うならMod使えなくなっても受け入れるし、<br>
 その処罰に値する利用方法をしないよ！！<br>
 ってことです。
-
-## TownOfHost-Kってなんだい?
-他のAmongUsのModとはまた一味違った、斬新で独特な機能や役職が多いModです。<br>
-
-HostModなので部屋主のみModを導入すれば、<br>
-参加者はModを導入する必要もカスタムサーバー追加等の面倒な手間なしで<br>
-導入者が部屋を建て、その部屋に入ることでTownOfHost-Kを遊ぶことができます！<br>
-
-詳しい仕様などは[Wiki](https://github.com/KYMario/TownOfHost-K/wiki)やゲーム内確認できます<br>
-
-## 役職について
-かなりの数があるので[Wiki](https://github.com/KYMario/TownOfHost-K/wiki)をご確認ください。
-
-## 機能,モードについて
-
-<details>
-
-<summary>モード</summary>
-
-- [スタンダード](https://github.com/KYMario/TownOfHost-K/wiki/スタンダード)
-- - [役職入りかくれんぼ](https://github.com/KYMario/TownOfHost-K/wiki/役職入りかくれんぼ)
-- - [サドンデスモード](https://github.com/KYMario/TownOfHost-K/wiki/サドンデスモード)
-- [かくれんぼ](https://github.com/KYMario/TownOfHost-K/wiki/かくれんぼ)
-- [タスクバトル](https://github.com/KYMario/TownOfHost-K/wiki/タスクバトル)
-
-</details>
-
-その他機能、変更点などは基本wikiをご覧ください。<br>
-
-> **Note**
-> - 棒読みちゃんを起動してる時のみ読み上げ設定をONにしてください (自動でOFFになります)
-> - [TOHK_DATA\options.txt](#オプションファイル)からポートを設定できます。
-
-#### 外部リンク
-　TownOfHost-K<br>
-　　[Twitter(X)](https://x.com/Tohkserver_k)<br>
-
-**TownOfHost-Kの開発者**<br>
-　暇な人 KY/けーわい<br>
-　　[Youtube](https://www.youtube.com/@MTGC_KY)<br>
-　　[Twitter(X)](https://x.com/ky_mario_ky)<br>
-
-　タイガー<br>
-　　[Youtube](https://www.youtube.com/@torataiga-)<br>
-　　[Twitter(X)](https://x.com/TVppJ90s9G2sPkq)<br>
-
-　夜藍<br>
-　　[Youtube](https://www.youtube.com/@Yoran_Furan)<br>
-　　[Twitter(X)](https://x.com/Yoran_FuranOshi)<br>
-
-　ねむa<br>
-　　[Twitter(X)](https://x.com/nemu_adatoomou)<br>
-
-　はろん<br>
-　　[Twitter(X)](https://x.com/HellWeen11)<br>
-
-**TownOfHost-Kのサポーター**<br>
-　りぃりぃ<br>
-　　[Twitter(X)](https://x.com/rixirixi0202)<br>
-
-※本家TownOfHost様の開発者はここでは省略させていただきます
-#### クレジット
-[Town Of Host](https://github.com/tukasa0001/TownOfHost)<br>
-　Fork元の本家です。<br>TownOfHost様にある機能はTownOfHost-Kでも大体実装されています<br>
-
-[Town Of Host_Y](https://github.com/Yumenopai/TownOfHost_Y)<br>
-　会議時の役職表示、会議拡張、ワーカホリック,属性名、一部役職を参考/移植させて頂きました！<br>
-
-[Town Of Host For E](https://github.com/AsumuAkaguma/TownOfHost_ForE) <br>
-　機能やコメント取得一部処理の参考にさせて頂きました！<br>
-
-[Revolutionary Host Roles](https://github.com/sansaaaaai/Revolutionary-host-roles)<br>
-　カスタムボタンの参考、リローダー、スタッフ、インセンダーを移行させていただきました！<br>
-
-[Town Of Host-H](https://github.com/Hyz-sui/TownOfHost-H) <br>
-　10.24アプデの対応で参考にさせていただきました！<br>
-
-[SuperNewRoles](https://github.com/ykundesu/SuperNewRoles) <br>
-　天秤、ミーティングシェリフ、トイレファン、イビルギャンブラー、ペンギン、マッドスーサイドを移植/参考<br>
-　ブラックリスト等や様々な部分を参考にさせて頂きました！<br>
-
-[TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles)<br>
-　カモフラージャー、ゲッサー等を参考/移植させていただきました<br>
-
-[TheOtherRole GM](https://github.com/yukinogatari/TheOtherRoles-GM)<br>
-　一部役職を参考/移植させていただきました<br>
-
-TOR_GM_Haoming_Edition<br>
-　イビルトラッカー、シュレディンガーの猫等を参考/移植させていただきました<br>
-
-[Nebula On The Ship](https://github.com/Dolly1016/Nebula/)<br>
-　ドクター、スナイパーを参考/移植させていただきました<br>
-
-[au.libhalt.net](https://au.libhalt.net/)<br>
-　マッドジェスターの参考/移植させていただきました<br>
-
-[ExtremeRoles](https://github.com/yukieiji/ExtremeRoles)<br>
-　アサシンとマーリンの参考/移植をさせていただきました。<br>
